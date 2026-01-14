@@ -41,7 +41,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ## ⚙️ Tools and Languages I've Used
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,c,cpp,cs,react,nodejs,unity,git,github,docker,bash,linux,windows,vscode,vim" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,c,cs,react,nodejs,unity,git,github,docker,bash,linux,windows,vscode,vim" alt="My Skills" />
 </p>
 
 ---
