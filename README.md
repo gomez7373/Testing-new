@@ -39,29 +39,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ---
 
-## 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/github-contribution-grid-snake.svg" />
----
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomez7373&theme=github-compact&hide_border=true" />
-</p>
----
-try
-
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-## ⚙️ Tools and Languages I've Used
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,c,cs,react,nodejs,unity,git,github,docker,bash,linux,windows,vscode,vim" alt="My Skills" />
-</p>
-
----
-
 ## 🤝 Looking to Collaborate On
 - **Innovative projects** that merge art and technology
 - **Health and wellness applications** that improve lives
