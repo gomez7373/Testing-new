@@ -74,21 +74,15 @@ I started studying architecture to bring art and design to life in 3D spaces. No
   </a>
 </p>
 ---
+
+
 Pic 1
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Education - Woman Studying Code"
-       width="450" />
-</p>
+<img src="https://media1.tenor.com/m/Uh99QdtXVa0AAAAd/working-crazy.gif" alt="Education GIF" width="500" />
 
 ---
 Pic 2 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
-       alt="Faith - Hope and Light"
-       width="400" />
-</p>
+<img src="https://media1.tenor.com/m/qgQUggAC3Pfv687qPC/giphy.gif" alt="Faith GIF" width="500" />
 ---
 
 Pic 3 
