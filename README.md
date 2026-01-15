@@ -29,15 +29,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ---
 
-## 📊 My Contribution Highlights
-
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/0-profile-details.svg)]
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/1-repos-per-language.svg)] 
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/2-most-commit-language.svg)]
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/3-stats.svg)]
-[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/4-productive-time.svg)]
-
----
 ## 📊 My Contribution Highlights 
 
 <p align="center">
