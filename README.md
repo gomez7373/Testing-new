@@ -38,6 +38,22 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 [![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/4-productive-time.svg)]
 
 ---
+## 📊 My Contribution Highlights 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/4-productive-time.svg" />
+</p>
+---
 
 ## 🤝 Looking to Collaborate On
 - **Innovative projects** that merge art and technology
