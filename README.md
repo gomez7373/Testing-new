@@ -43,7 +43,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/github-contribution-grid-snake.svg" />
 ---
----
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -51,6 +50,11 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
+</p>
+
+---
 ## ⚙️ Tools and Languages I've Used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,c,cs,react,nodejs,unity,git,github,docker,bash,linux,windows,vscode,vim" alt="My Skills" />
