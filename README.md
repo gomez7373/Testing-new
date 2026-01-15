@@ -51,9 +51,8 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 ---
 try
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" />
 </p>
 
 ---
