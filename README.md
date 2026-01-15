@@ -51,9 +51,8 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 ---
 try
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" />
-</p>
+[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 ## ⚙️ Tools and Languages I've Used
