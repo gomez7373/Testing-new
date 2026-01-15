@@ -11,7 +11,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
@@ -23,7 +22,6 @@ jobs:
           THEME: jolly
           UTC_OFFSET: -4
 
-      # 🐍 NUEVO — genera la culebrita
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -31,13 +29,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # 🐍 NUEVO — la mueve al mismo folder de JOLLY
-      - name: Move snake into summary output
+      - name: Move snake into Jolly output folder
         run: |
           mkdir -p profile-summary-card-output/jolly
           cp dist/github-contribution-grid-snake.svg profile-summary-card-output/jolly/github-contribution-grid-snake.svg
 
-      - name: Commit and push generated cards
+      - name: Commit and push generated cards (+ snake)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
