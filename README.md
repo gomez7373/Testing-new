@@ -49,9 +49,10 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomez7373&theme=github-compact&hide_border=true" />
 </p>
 ---
+try
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
