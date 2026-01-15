@@ -73,6 +73,13 @@ I started studying architecture to bring art and design to life in 3D spaces. No
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" 
+       alt="Highlights - Achievements"
+       width="450" />
+</p>
 
 ---
 
