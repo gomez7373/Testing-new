@@ -38,10 +38,11 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 [![](https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/4-productive-time.svg)]
 
 ---
+
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/assets/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/github-contribution-grid-snake.svg" />
 </p>
 
 ---
