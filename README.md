@@ -74,7 +74,7 @@ I started studying architecture to bring art and design to life in 3D spaces. No
   </a>
 </p>
 ---
-
+Pic 1
 <p align="center">
   <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" 
        alt="Highlights - Achievements"
@@ -82,7 +82,23 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </p>
 
 ---
+Pic 2 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+       alt="Connect - Professional Communication"
+       width="400" />
+</p>
+---
+
+Pic 3 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Education - Woman Studying Code"
+       width="450" />
+</p>
+
+---
 <p align="center">
   ✨ *Thank you for visiting my profile! Let's turn curiosity into innovation.* ✨
 </p>
