@@ -23,6 +23,20 @@ jobs:
           THEME: jolly
           UTC_OFFSET: -4
 
+      # 🐍 NUEVO — genera la culebrita
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: gomez7373
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      # 🐍 NUEVO — la mueve al mismo folder de JOLLY
+      - name: Move snake into summary output
+        run: |
+          mkdir -p profile-summary-card-output/jolly
+          cp dist/github-contribution-grid-snake.svg profile-summary-card-output/jolly/github-contribution-grid-snake.svg
+
       - name: Commit and push generated cards
         run: |
           git config user.name "github-actions[bot]"
